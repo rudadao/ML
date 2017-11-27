@@ -22,7 +22,7 @@
 - 输入mp (Markdown Preview: current file in browser)后回车
 - 此时就可以在浏览器里看到刚才编辑的文档了
 
-#6 额外配置
+# 6 额外配置
 - 浏览器预览配置，即通过按alt + m预览编辑内容：
 将preference--> key binding user 中输入
 ```
