@@ -31,14 +31,10 @@
 ]
 ```
 - MathJax公式支持和语法高亮配置：
-在preference--> setting user 改为：
+在preference--> Package Settings -> Markdown Preview -> Setting - User 中加入内容：
 ```
 {
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-
+    
     /*
         Enable or not mathjax support.
     */
