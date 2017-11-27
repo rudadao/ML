@@ -34,7 +34,6 @@
 在preference--> setting user 改为：
 ```
 {
-    "font_size": 13,
     "ignored_packages":
     [
         "Vintage"
