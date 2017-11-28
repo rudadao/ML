@@ -1,4 +1,4 @@
-
+ <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
  <!-- mathjax config similar to math.stackexchange -->    
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://rudadao.github.io/MathJaxLocal.js">
     </script>
