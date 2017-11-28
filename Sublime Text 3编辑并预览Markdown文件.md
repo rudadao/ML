@@ -48,6 +48,7 @@
 
 }
 ```
+此外推荐一个公式编辑器，可以编辑简单的公式https://www.codecogs.com/eqnedit.php?latex=
 # 7 参考
 - http://blog.csdn.net/Marksinoberg/article/details/50993456
 - http://blog.csdn.net/orangleliu/article/details/34849723
